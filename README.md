@@ -40,5 +40,5 @@ Deploy
 
 Créditos
 
-- Autor:AdailC
+- Autor:Adail-dev
 - Bibliotecas: React, Vite, React Router, Axios, Expo, React Navigation
