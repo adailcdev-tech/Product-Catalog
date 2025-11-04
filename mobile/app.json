@@ -1,0 +1,7 @@
+{
+  "expo": {
+    "name": "meu-estudo-caso-mobile",
+    "slug": "meu-estudo-caso-mobile",
+    "platforms": ["ios", "android", "web"]
+  }
+}
